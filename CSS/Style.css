@@ -1,0 +1,40 @@
+body,html{
+    height:100%;
+    margin:0 px;
+    background-color: rgb(247, 241, 241);
+    background-image: -moz-repeating-radial-gradient("Images/mountains.png");
+}
+
+nav li{
+display: inline;
+margin: 20px;
+
+}
+
+main{
+    width: 70%;
+    float: left;
+    height: 100%;
+    padding left :  25 px ;
+    
+
+}
+
+side{
+    width: 30%;
+    float: right;
+    height: 100%;
+    padding right:25px;
+}
+
+div{
+    text-align: center;
+    border: 3px solid green;
+    );
+}
+
+nav{
+    background-image: url("Images/keep coding.jpg");
+
+
+}
